@@ -2,8 +2,9 @@
 Repositorio para el módulo de Sostenibilidad aplicada al sistema productivo
 
 
-## [Tema 1](https://github.com/estelaV9/SostenibilidadSistemaProductivo/tree/master/Tema1_DesarrolloSostenibleYResponsabilidadEmpresarial): Desarrollo sostenible y responsabilidad empresarial
-- [Apuntes](https://github.com/estelaV9/SostenibilidadSistemaProductivo/blob/master/Tema1_DesarrolloSostenibleYResponsabilidadEmpresarial/apuntes.md) del tema
+## [Tema 1](Tema1_DesarrolloSostenibleYResponsabilidadEmpresarial): Desarrollo sostenible y responsabilidad empresarial
+- [Apuntes](Tema1_DesarrolloSostenibleYResponsabilidadEmpresarial/apuntes.md) del tema
+- [Tarea](Tema1_DesarrolloSostenibleYResponsabilidadEmpresarial/ejercicios/Tarea1_SOS_EstelaDeVega.pdf) 1
 
 
 
